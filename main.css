@@ -1,0 +1,30 @@
+nav ul li{
+    display: inline-block;
+    margin-right: 50px;
+}
+header nav{
+    background-color: cadetblue;
+/* gavgijdebi :D */
+}
+div img{
+width: 300px;
+}
+div{
+    text-align: center;
+    text-transform: capitalize;
+}
+.pirveli{
+    width: 600px;
+}
+h1{
+    text-transform: capitalize;
+}
+h2{ text-transform: capitalize;}
+h3{ text-transform: capitalize;}
+.meore{
+    width: 100px;
+}
+section{
+    margin-left: 100px;
+    background-color: white;
+}
